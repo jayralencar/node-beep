@@ -16,6 +16,10 @@ beep(1);
 </code>
 </pre>
 
+## Test
+To test run:</br>
+<code>$ npm test</code>
+
 ## Visit
 <a href="//jayralencar.com.br">Author homepage</a></br>
 <a href="//clubedosgeeks.com.br">Clube dos Geeks</a>
