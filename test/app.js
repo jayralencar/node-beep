@@ -1,2 +1,2 @@
 var beep = require('../beep.js');
-beep(1);
+beep(3);
